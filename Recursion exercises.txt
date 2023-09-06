@@ -1,0 +1,16 @@
+Recursive exercises
+
+Factorial Calculation:
+Write a recursive function to calculate the factorial of a given positive integer. The factorial of a number is the product of all positive integers up to that number. For example, the factorial of 5 (denoted as 5!) is 5 * 4 * 3 * 2 * 1 = 120.
+
+Fibonacci Sequence:
+Implement a recursive function to generate the nth term of the Fibonacci sequence. The Fibonacci sequence starts with 0 and 1, and each subsequent term is the sum of the two preceding terms (e.g., 0, 1, 1, 2, 3, 5, 8, ...).
+
+Sum of Digits:
+Create a recursive function to find the sum of the digits of a positive integer. For example, the sum of digits in 123 should be 1 + 2 + 3 = 6.
+
+Counting Occurrences:
+Write a recursive function that counts the number of occurrences of a specific character in a given string. For instance, count how many times the letter 'a' appears in a string.
+
+Power Function:
+Implement a recursive function to calculate the result of raising a given number to a specified positive integer power. For example, compute 2^3 using a recursive function.
